@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @saurabh Nale
-- 👀 I’m interested in Machine Learning and AI
+- 👀 II'm enthusiastic and passionate about Machine Learning, Deep Learning and neural Networks.
+     and have knowledge in linear algebra, Probability and Statistics
 - 🌱 I’m currently learning Computer Science and Information Technology ..
 - 💞️ I’m looking to collaborate on Machine learning Projects and Research... 
 - 📫 How to reach me 
