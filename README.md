@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saurabhnale9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JfZiy9ZZ2Zbd42znUxSpsjc4g6OiGrWR/view?usp=sharing](https://drive.google.com/file/d/1JfZiy9ZZ2Zbd42znUxSpsjc4g6OiGrWR/view?usp=sharing)
+- 📄 Know about my experiences [https://saurabh-nale-portfolio.vercel.app/#resume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
