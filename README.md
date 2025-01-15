@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://saurabh-nale-portfolio.vercel.app/](https://saurabh-nale-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@saurabhnale9](https://medium.com/@saurabhnale9)
-- 
+
 
 - 📫 How to reach me **saurabhnale9@gmail.com**
 
