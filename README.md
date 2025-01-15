@@ -11,7 +11,7 @@
 - 📝 I regularly write articles on [https://medium.com/@saurabhnale9](https://medium.com/@saurabhnale9)
 
 
-- 📫 How to reach me **saurabhnale9@gmail.com**
+- 📫 How to reach me **saurabhnale9@gmail.com** 
 
 - 📄 Know about my experiences [https://saurabh-nale-portfolio.vercel.app/#resume)
 
