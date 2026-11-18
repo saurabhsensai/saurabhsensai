@@ -27,6 +27,7 @@ Previously worked on automated MRI segmentation pipelines and production optimiz
 | Project | What it is |
 |---------|------------|
 | [**secure-agent-service**](https://github.com/saurabhsensai/secure-agent-service) | Self-hosted multi-user AI agent runtime with FastAPI + LangGraph + Arcade. Handles OAuth, isolation, and Human-in-the-Loop for tools like Gmail/Slack/Notion. |
+| [**simple-cnn-tensorRT-inference**](https://github.com/saurabhsensai/simple-cnn-tensorRT-inference) | End-to-end production-style pipeline: PyTorch CNN → ONNX → TensorRT engine → C++ inference on CIFAR-10. Demonstrates the modern TensorRT 10/11 API. |
 | [**ViT-From-Scratch**](https://github.com/saurabhsensai/ViT-From-Scratch) | Clean, modular Vision Transformer implementation trained on CIFAR-10 with visualization for patches and attention. |
 | [**Latex-OCR-API**](https://github.com/saurabhsensai/Latex-OCR-API) | FastAPI service for converting images of mathematical expressions into LaTeX. |
 | [**ResearchDoc-QA**](https://github.com/saurabhsensai/ResearchDoc-QA) | Document QA system aimed at research papers. |
